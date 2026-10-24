@@ -1,14 +1,14 @@
 # Data Analysis Projects
 
-Three smaller analysis projects: two exploratory notebooks and a SQL project. For deeper work, see [NYC Airbnb: cleaning, EDA & modeling](https://github.com/Talhax55z/airbnb-nyc-eda-modeling) and [Telco churn prediction](https://github.com/Talhax55z/telco-churn-prediction).
+An index of my Zomato, Eid sales, and Ola SQL projects. The notebooks live in their dedicated repositories; this repository contains the Ola SQL queries. For deeper work, see [NYC Airbnb: cleaning, EDA & modeling](https://github.com/Talhax55z/airbnb-nyc-eda-modeling) and [Telco churn prediction](https://github.com/Talhax55z/telco-churn-prediction).
 
 | Project | Data | Tools | Focus |
 |---|---|---|---|
-| [`zomato-analysis/`](zomato-analysis) | Zomato restaurant listings | pandas, seaborn, matplotlib | 6 business questions, each answered with a chart and a written conclusion |
-| [`eid-sales-eda/`](eid-sales-eda) | Eid-season retail orders, 11,251 rows | pandas, seaborn, matplotlib | Revenue and order patterns by gender, age, city, marital status, occupation and product |
+| [Zomato data analysis](https://github.com/Talhax55z/zomato-data-analysis) | Zomato restaurant listings | pandas, seaborn, matplotlib | 6 business questions, each answered with a chart and a written conclusion |
+| [Eid sales analysis](https://github.com/Talhax55z/Eid-Sales-Analysis) | Eid-season retail orders, 11,251 rows | pandas, seaborn, matplotlib | Revenue and order patterns by gender, age, city, marital status, occupation and product |
 | [`ola-sql/`](ola-sql) | Ola ride bookings | MySQL | 10 reusable views for cancellations, ratings, payments and revenue |
 
-Datasets are not included in this repo.
+The Ola bookings dataset is not included here. See each linked repository for its notebook and available data.
 
 ## Zomato: six questions
 
